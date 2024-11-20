@@ -1,0 +1,13 @@
+.menu {
+  padding: 0;
+  margin: 25px 25px 25px 25px;
+  gap: 15;
+  
+}
+
+.menu-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  gap: 15;
+}

@@ -1,0 +1,13 @@
+
+
+.footer-list {
+  display: flex;
+  margin-top: 5px;
+ 
+  list-style-type: none;
+  
+}
+
+.footer-list-item {
+  margin-right: 15px;
+}
